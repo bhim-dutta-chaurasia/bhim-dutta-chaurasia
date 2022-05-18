@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @bhim-dutta-chaurasia
-- 👀 I’m interested in Cloud Domain
-- 🌱 I’m currently learning DevOps...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋Hi this is test
 
 <!---
 bhim-dutta-chaurasia/bhim-dutta-chaurasia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
